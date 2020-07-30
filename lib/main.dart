@@ -44,6 +44,9 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'Learn and build AR over flutter',
             ),
+            Text(
+                'Learn about camera access and AR core'
+            ),
           ],
         ),
       ),
